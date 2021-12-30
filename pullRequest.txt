@@ -1,0 +1,5 @@
+Pull Request
+
+Git Ignore
+
+touch .gitignore (cria arquivos escondidos)

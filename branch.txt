@@ -1,0 +1,26 @@
+São galhos (ramos)
+
+git branch (mostra as branch)
+
+git branch (nome)
+
+git checkout (nome)(mudar de branch)
+
+git checkout -b (nome da branch)
+
+git merge (nome da branch que quero atualizar) 
+
+git pull (traz as atualizações para sua maquina)
+
+Passos
+
+git pull da branch principal
+gerar uma nova branch a paritr da principal
+trabalhar e add novas funcionalidades na nova
+finalizar o trabalho na branch temporaria
+git checkout na branch principal
+git Pull
+Mergiar(Unir) o codigo da branch temp. com a principal
+
+git push da branch principal
+

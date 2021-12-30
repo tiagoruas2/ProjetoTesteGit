@@ -1,0 +1,13 @@
+git status (relatorios de arquivos)
+git add . ( adicionar todos os arquivos)
+git add "" (adiciona o arquivo especifico)
+git commit -m(significa mensagem)(criando uma nova versão)
+git config --global user.email
+git config --global user.name
+git remote add origin
+git push (enviar os arquivos)
+
+git reflog (ver as versões)
+
+git reset --hard (id) (volta a versão anterior)
+
