@@ -1,3 +1,4 @@
+git init ( inicializa um novo repositorio)
 git status (relatorios de arquivos)
 git add . ( adicionar todos os arquivos)
 git add "" (adiciona o arquivo especifico)
